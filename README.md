@@ -1,4 +1,4 @@
-# Testwebsite
+# Testwebsite [@Shortcut](https://drjayy.github.com/testwebsite)
 
 A simply version of a testwebsite for Frontend Code Testing.
 
