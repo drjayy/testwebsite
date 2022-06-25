@@ -10,7 +10,6 @@ They may be used in accordance with the stated licence conditions.
 Anyone who infringes copyright (e.g. copies images or texts without permission) is liable to prosecution
 under international dependend copyright law and will also be liable to pay costs and must pay damages.
 
-
 © Copyright 2022 - Urheberrechtshinweis
 
 Alle Inhalte dieses Werkes, insbesondere Texte, Fotografien und Grafiken, sind urheberrechtlich geschützt. 
