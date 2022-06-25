@@ -8,8 +8,6 @@ This is a simple testwebsite for Frontend Code Testing. I am intending to implem
 
 ## Author
 
-Contributor name and contact info
-
 [@DrJayy](https://www.reddit.com/user/dreowyn)
 
 ## License
@@ -20,4 +18,4 @@ This project is licensed under the Copyright License - see the LICENSE.md file f
 
 ## Help
 
-For further help please contact me on reddit with the link above.
+For further help, please contact me on reddit with the link above.
