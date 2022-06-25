@@ -17,5 +17,4 @@ This project is licensed under the Copyright License - see the LICENSE.md file f
 © Copyright 2022 DrJayy. All rights reserved.
 
 ## Help
-
 For further help, please contact me on reddit with the link above.
