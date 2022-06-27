@@ -1,5 +1,6 @@
 .Page {
   text-align: center;
+  background-color: #282c34;
 }
 
 .Page-header {
@@ -11,4 +12,9 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.Page-footer {
+  color: white;
+  padding-bottom: 2vh;
 }
