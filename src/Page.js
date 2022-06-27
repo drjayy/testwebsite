@@ -1,5 +1,9 @@
 import './Page.css';
 
+/**
+ * Main Page for Testwebsite
+ * @returns A React Page component.
+ */
 function Page() {
   return (
     <div className="Page">
